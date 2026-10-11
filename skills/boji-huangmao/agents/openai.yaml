@@ -1,0 +1,4 @@
+interface:
+  display_name: "薄肌黄毛"
+  short_description: "把 AI 辅助、身体习惯与机会探索转成低成本、可复盘的个人行动指南"
+  default_prompt: "请用 $boji-huangmao，根据我的现状制定本周行动指南，列出完成证据和复盘条件。"
